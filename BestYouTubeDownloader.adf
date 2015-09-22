@@ -1,9 +1,0 @@
-<AdwareDefinition>
-	<Version>90</Version>
-	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
-	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
-	<Adware>
-		<AdwareName>Best YouTube Downloader</AdwareName>
-		<File>/Users/*/Library/LaunchAgents/com.moeppfdpoohhdcaefbfpmabjipnohiif.updater.plist</File>
-	</Adware>
-<AdwareDefinition>
